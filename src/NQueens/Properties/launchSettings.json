@@ -1,0 +1,9 @@
+{
+    "launchSettingsProfile": "Debug",
+    "profiles": {
+        "Debug":{
+            "commandName": "Project",
+            "commandLineArgs": "recursive 8"
+        }
+    }
+}
